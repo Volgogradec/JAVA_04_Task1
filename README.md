@@ -38,4 +38,4 @@ public class Main {
 Итого: у вас должен быть репозиторий на GitHub, в котором расположен ваш Java-код.
 
 
-Готово: [Java-код по заданию]()
+Готово: [Java-код по заданию](https://github.com/Volgogradec/JAVA_04_Task1/blob/master/src/BonusMilesService.java)
